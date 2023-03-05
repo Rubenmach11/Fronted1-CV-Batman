@@ -1,0 +1,42 @@
+.foto-perfil{
+    background-color: #e6e6e6;
+    text-align: center;
+}
+#cv-title {
+    text-align: center;
+    background-color: #c4c4c4;
+    padding: 30px;
+    color: #005677;
+    letter-spacing: 20px;
+    font-family: 'Times New Roman', Times, serif;
+    font-size: 35px;
+    line-height: 29.64px;
+}
+.subtitle{
+    background-color:#c4c4c4;
+    color: #005677;
+    letter-spacing: 5px;
+    text-transform: uppercase ;
+}
+.primer-span {
+    font-weight: bold;
+    font-style: italic;
+    line-height: 22px;
+}
+.segundo-span {
+    font-weight: bold;
+    line-height: 22px;
+}
+dd {
+    padding-left: 39px;
+}
+.separacion-footer{
+    letter-spacing: inherit;
+}
+footer{
+    color: white;
+    background-color: #005677;
+    text-align: center;
+    padding: 8PX;
+    letter-spacing: 10px;
+}
